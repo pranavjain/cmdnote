@@ -32,3 +32,18 @@ You can add your note after the 'add' keyword.
 
 You can see the note number from view note command.
 
+# Making commands fast!
+You can also add the path to 'cmdnote.py' to your .bashrc file in order to avoid typing the whole command every time.
+Below is a sample .bashrc entry
+
+    NOTE='C:/Users/pranavj/Desktop/cmdnote/cmdnote.py'
+    alias note='python $NOTE'
+
+You can now directly type 'note' followed by commands
+
+    note new
+    note add Hello Application!
+    note view
+    note rm 2
+
+
