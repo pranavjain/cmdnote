@@ -26,7 +26,7 @@ You can add your note after the 'add' keyword.
 
     python cmdnote.py view
 
-## Delete a note
+## Deleting a note
 
     python cmdnote.py rm NoteNumber
 
