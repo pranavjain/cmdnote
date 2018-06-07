@@ -1,13 +1,13 @@
 # cmdnote
 # Welcome to cmdnote Project!
 
-This is a simple script which allows you to write note via your terminal while you are coding/working.
+This is a simple script which allows you to write notes via your terminal while you are coding/working.
 
 
 # Getting Started
 
-These instructions will help you cmdNote and get you running in no time!
-## Setting the database
+These instructions will help you setup cmdNote and get you running in no time!
+## Setting the database (First time only)
 
 You need to have a database file in the directory where you want to take notes. You can create different databases in different directories.
 
